@@ -1,0 +1,14 @@
+# Original high-res assets — only the web-optimized assets_web/ is shipped to GitHub Pages
+assets/
+
+# Server logs (local preview)
+server.out.log
+server.err.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
